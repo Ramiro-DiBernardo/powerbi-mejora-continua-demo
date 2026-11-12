@@ -1,0 +1,5 @@
+expression RutaExcel = "D:\Power BI\powerbi-mejora-continua-demo\demo\mejora_continua_demo.xlsx" meta [IsParameterQuery = true, IsParameterQueryRequired = true, Type = type text]
+	lineageTag: 27833fd4-7964-411c-992b-02d71a86ed50
+
+	annotation PBI_ResultType = Text
+
